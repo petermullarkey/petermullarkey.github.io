@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Sample Post
 published: true
 ---
 
@@ -95,7 +95,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Alt text for image](/assets/bullet.png "Example image")
 
 ### Large image
 

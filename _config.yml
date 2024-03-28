@@ -1,8 +1,8 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: You are busier than you think
+description: "Campervan adventures with Sara and Peter"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
+  name: "Sara and Peter Mullarkey"
+  email: "peter.mullarkey+cv@gmail.com"
   url: "https://petermullarkey.github.io"
 
 baseurl: /
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Sara and Peter Mullarkey"
+year : "2024"

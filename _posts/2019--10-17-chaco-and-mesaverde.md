@@ -1,5 +1,5 @@
 ---
-title: TR #1 Chaco Canyon and MesaVerde
+title: TR1 Chaco Canyon and MesaVerde
 published: true
 ---
 
@@ -95,4 +95,4 @@ end
 
 ### Small image
 
-![](https://petermullarkey.github.io/assets/campervanning/)
+![](https:/assets/campervanning/2019-oct-chaco-and-mesaverde/IMG_20191017_135340149_HDR.jpg)

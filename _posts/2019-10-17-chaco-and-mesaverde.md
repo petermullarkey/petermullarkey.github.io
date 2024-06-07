@@ -95,4 +95,4 @@ end
 
 ### Small image
 
-![](https:/assets/campervanning/2019-oct-chaco-and-mesaverde/IMG_20191017_135340149_HDR.jpg)
+![](https:/assets/campervanning/2019-oct-chaco-and-mesaverde/IMG_20191017_135340149_HDR.jpg){: width="50%"}

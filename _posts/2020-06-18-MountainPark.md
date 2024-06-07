@@ -104,4 +104,4 @@ didn't snow.
 
 Here is our trusty campervan in our campsite backed up to the Poudre river.
 
-![](https:/assets/campervanning/2020-6-MountainPark.jpg){: width="50"}
+![](https:/assets/campervanning/2020-6-MountainPark.jpg)

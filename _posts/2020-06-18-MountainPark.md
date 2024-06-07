@@ -5,34 +5,16 @@ published: true
 
 **dates:** 18-20 June 2020 Thursday, Friday, and Saturday
 
-**location:** [Mountain Park National Forest Campground]("https://www.fs.usda.gov/recarea/arp/recreation/recarea/?recid=36697)
+**location:** [Mountain Park National Forest Campground](https://www.fs.usda.gov/recarea/arp/recreation/recarea/?recid=36697)
 
 **elevation:** ?? feet
 
 **cell coverage:** T-Mobile - ??
 
 
-Not deterred by the `<strong>`{=html}Campground Full`</strong>`{=html}
-sign we asked the campground host about the first come, first served
-sites.  He was the host for the "upper" campground and suggested we
-check in with the "lower" campground host because that is where those
-sites were. Maybe this pearl of wisdom is posted somewhere but we
-suddenly felt like we had inside information.  We now know to ignore
-signs and ask questions. The host was easy to find as he was driving a
-golf cart. It's all of matter of where you are; in the campground the
-golf cart indicates someone who can answer a question.  Much to his
-surprise and our relief there were two sites available. Although it was
-over an hour before the official check-in time there was someone ahead
-of us who had the choice of the open sites. We could have whichever site
-they did not take.  Their car whizzed by us as we stood talking to the
-host.  He said, "you got the nice one, right on the river" as he
-shrugged his shoulders at the rear end of the other camper's car.
+Not deterred by the ***Campground Full*** sign, we asked the campground host about the first come, first servedsites. He was the host for the "upper" campground and suggested we check in with the "lower" campground host because that is where those sites were. Maybe this pearl of wisdom is posted somewhere but we suddenly felt like we had inside information.  We now know to ignore signs and ask questions. The host was easy to find as he was driving a golf cart. It's all of matter of where you are; in the campground the golf cart indicates someone who can answer a question.  Much to his surprise and our relief there were two sites available. Although it was over an hour before the official check-in time there was someone ahead of us who had the choice of the open sites. We could have whichever site they did not take.  Their car whizzed by us as we stood talking to the host.  He said, "you got the nice one, right on the river" as he shrugged his shoulders at the rear end of the other camper's car.
 
-We took his word for it and backed into our site.  The roar of the river
-meant some hollering at each other to guess at the distance we would
-need to set up our tarp.  That's one of the many things shake down trips
-are for; exactly how big is the tarp we bought and haven't taken out of
-the bag yet?
+We took his word for it and backed into our site.  The roar of the river meant some hollering at each other to guess at the distance we would need to set up our tarp.  That's one of the many things shake down trips are for; exactly how big is the tarp we bought and haven't taken out of the bag yet?
 
 The campground asks that you pay and hang up your tag on the post at the
 road within 10 minutes of arrival so everyone knows the site is occupied
@@ -46,7 +28,7 @@ We have designated a notebook for notes to help us remember what works,
 what doesn't, add to our lists, make note of things we need to do, and
 general information.
 
-Who is Cece you ask?  Our van!   The idea came from our first trip, when
+Who is Cece you ask?  Our van! The idea came from [our first trip](https://petermullarkey.github.io/chaco-and-mesaverde), when
 we rented a campervan, to see if we liked it.  We were travelling over a
 beautiful pass full of breathtaking foliage and I kept saying "see,
 see?"  That is how it feels to be out on the road in Colorado, something
@@ -121,4 +103,5 @@ around and did warm us up.  This was June by the way.  We were lucky it
 didn't snow.
 
 Here is our trusty campervan in our campsite backed up to the Poudre river.
+
 ![](https:/assets/campervanning/2020-6-MountainPark.jpg){: width="50"}

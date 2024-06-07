@@ -1,4 +1,3 @@
-
 ---
 title: Adventure 1 Initial Shakedown trip
 published: true
@@ -6,7 +5,7 @@ published: true
 
 **dates:** 18-20 June 2020 Thursday, Friday, and Saturday
 
-**location:** Mountain Park National Forest Campground url("https://www.fs.usda.gov/recarea/arp/recreation/recarea/?recid=36697)
+**location:** [Mountain Park National Forest Campground]("https://www.fs.usda.gov/recarea/arp/recreation/recarea/?recid=36697)
 
 **elevation:** ?? feet
 

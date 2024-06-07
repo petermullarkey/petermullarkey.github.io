@@ -10,6 +10,7 @@ published: true
 
 **cell coverage:** T-Mobile - very good in camp
 
+**summary:** We enjoyed swimming in the reservior. We needed to head back early to dodge severe thunderstorms and hail (that ended up causing flooding along I-25 in southern Colorado on Sunday - after we were home)
 
-Here is our trusty rental in a roadside pullout in southern Colorado on the way to Chaco
-![](https:/assets/campervanning/2019-oct-chaco-and-mesaverde/IMG_20191017_135340149_HDR.jpg){: width="50%"}
+Here is our trusty campervan in our campsite overlooking the reservoir.
+![](https:/assets/campervanning/2021-5-conchas-lake.jpg){: width="50%"}

@@ -1,10 +1,10 @@
 ---
-title: Adventure 0 Chaco Canyon and Mesa Verde
+title: Adventure 0 - Chaco Canyon and Mesa Verde
 published: true
 ---
-**dates:** Friday Oct 17-24
+**dates:** Oct 11 - 18, 2019
 
-**location:** Spanish Peaks, Chaco Canyon, and Mesa Verde
+**location:** [Spanish Peaks](https://cpw.state.co.us/placestogo/Parks/lathrop), [Chaco Canyon](https://www.nps.gov/chcu/index.htm), and [Mesa Verde](https://www.nps.gov/meve/index.htm)
 
 **elevation:** varied
 

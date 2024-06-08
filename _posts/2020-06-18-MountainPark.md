@@ -1,5 +1,5 @@
 ---
-title: Adventure 1 Initial Shakedown trip
+title: Adventure 1 - Initial Shakedown trip
 published: true
 ---
 

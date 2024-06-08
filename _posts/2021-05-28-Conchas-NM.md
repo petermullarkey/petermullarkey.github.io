@@ -1,5 +1,5 @@
 ---
-title: Adventure 11 (2021 adv3) Conchas Lake, NM
+title: Adventure 11 (2021 adv3) - Conchas Lake, NM
 published: true
 ---
 **dates:** Friday May 28-29, 2021
